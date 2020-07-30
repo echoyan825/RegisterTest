@@ -1,2 +1,2 @@
-# RegisterTest
-注册接口测试
+# LoginRegister
+simple register and login interface base on spring boot
